@@ -1,1 +1,3 @@
-# Kafka pub-sub example
+# Kafka pub-sub
+
+A simple message broker using Kafka
